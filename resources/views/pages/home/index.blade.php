@@ -5,7 +5,7 @@
         <div class="container flex items-center justify-between w-full mx-auto">
             {{-- Text --}}
             <div class="">
-                <div class="mb-4 space-y-4 font-serif font-bold text-7xl" data-aos="fade-up" data-aos-offset="200" data-aos-delay="50" data-aos-duration="500">
+                <div class="mb-4 space-y-4 font-serif font-bold text-8xl" data-aos="fade-up" data-aos-offset="200" data-aos-delay="50" data-aos-duration="500">
                     <h2>Blog designed</h2>
                     <h2>To help you</h2>
                     <h2>Succeed!</h2>
